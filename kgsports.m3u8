@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel HD" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel HD
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/18386
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",SuperSport Tennis
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/54966
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/4084
+#EXTINF:-1 tvg-id="Sport TV + FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV + FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/19589
+#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV +
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/9499
+#EXTINF:-1 tvg-id="Sport TV 1 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1 FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/17744
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/7846
+#EXTINF:-1 tvg-id="Sport TV 2 FHD" "tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="Sports", Sport TV 2 FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/3222
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="Sports", Sport TV 2
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/7845
+#EXTINF:-1 tvg-id="Sport TV 3 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="Sports", Sport TV 3 FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/3223
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="Sports", Sport TV 3
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/7844
+#EXTINF:-1 tvg-id="Sport TV 4 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="Sports", Sport TV 4 FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/3224
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="Sports", Sport TV 4
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/7843
+#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-id="Sport TV 5 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5 FHD
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/16297
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-id="Sport TV 5" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5
+http://tv.rapidiptv.tvip.xyz:80/QPwQDo82/NokdBd03/7842
