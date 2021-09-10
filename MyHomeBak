@@ -1,0 +1,612 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18386
+
+#EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/54966
+
+#EXTINF:-1 tvg-id="SuperTennis.us" tvg-name="Super Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/supertennis_small.png" group-title="Sports International",Super Tennis FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/4084
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports1_small.png",FOX SPORTS 1
+https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1NzozNCBBTSZoYXNoX3ZhbHVlPVFLUWducE1wd0I3dkt6VURKdjVTb2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfMjQwOTM=
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports2_small.png",FOX SPORTS 2
+https://mediasv.online/tvchannel_x1/foxsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1ODozOCBBTSZoYXNoX3ZhbHVlPWsyNHdCYngyYTZIQUU4VFF3bEJEWFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfNzE2Mzg=
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports3_small.png",FOX SPORTS 3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 1
+http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein2_small.png",BEIN SPORTS 2
+http://topwin-tv.my.id/2/chunklist.m3u8?id=bein2&bandwidth=default&sync=0
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports_small.png", USEE SPORTS
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports2_small.png", USEE SPORTS 2
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/soccerch.png",SOCCER CHANNEL
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="Box Nation" tvg-logo="" group-title="Sports International",BoxNation
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/4010
+
+#EXTINF:-1 tvg-id="Sport TV + FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV + FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/19589
+
+#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV +
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/9499
+
+#EXTINF:-1 tvg-id="Sport TV 1 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1 FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/17744
+
+#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1 HD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/3221
+
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/7846
+
+#EXTINF:-1 tvg-id="Sport TV 2 FHD" "tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="Sports", Sport TV 2 FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/3222
+
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="Sports", Sport TV 2
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/7845
+
+#EXTINF:-1 tvg-id="Sport TV 3 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="Sports", Sport TV 3 FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/3223
+
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="Sports", Sport TV 3
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/7844
+
+#EXTINF:-1 tvg-id="Sport TV 4 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="Sports", Sport TV 4 FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/3224
+
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="Sports", Sport TV 4
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/7843
+
+#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-id="Sport TV 5 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5 FHD
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/16297
+
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-id="Sport TV 5" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5
+http://tv.rapidiptv.tvip.xyz:80/RaulDasilva/UXxhgo842/7842
+
+#EXTINF:-1 tvg-id="Astro Super Sport 1" tvg-logo="" group-title="Sports International",Astro Super Sport 1
+http://clientportal.link:80/RaulDasilva/UXxhgo842/23453
+#EXTINF:-1 tvg-id="Astro Super Sport 2" tvg-logo="" group-title="Sports International",Astro Super Sport 2
+http://clientportal.link:80/RaulDasilva/UXxhgo842/23452
+#EXTINF:-1 tvg-id="Astro Super Sport 3" tvg-logo="" group-title="Sports International",Astro Super Sport 3
+http://clientportal.link:80/RaulDasilva/UXxhgo842/23451
+#EXTINF:-1 tvg-id="Astro Super Sport 4" tvg-logo="" group-title="Sports International",Astro Super Sport 4
+http://clientportal.link:80/RaulDasilva/UXxhgo842/33973
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="" group-title="Sports International",Sky Sports F1 UK
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14739
+
+#EXTINF:-1 tvg-id="SkynetSportsHD" tvg-name="Skynet Sports HD" tvg-logo="" group-title="Sports International",Skynet Sports HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkynetSports1" tvg-name="Skynet Sports 1" tvg-logo="" group-title="Sports International",Skynet Sports 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkynetSports2" tvg-name="Skynet Sports 2" tvg-logo="" group-title="Sports International",Skynet Sports 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkynetSports3" tvg-name="Skynet Sports 3" tvg-logo="" group-title="Sports International",Skynet Sports 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkynetSports4" tvg-name="Skynet Sports 4" tvg-logo="" group-title="Sports International",Skynet Sports 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkynetSports5" tvg-name="Skynet Sports 5" tvg-logo="" group-title="Sports International",Skynet Sports 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 1 HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/1991
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 1 SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/3586
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 2 HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/1992
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 2 SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/3588
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 3 HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/14903
+#EXTINF:-1 tvg-logo="" group-title="Sports International",BT Sport 3 SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/1965
+
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="Sports International",Eurosport 1 HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/13091
+
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="" group-title="Sports International",Eurosport 1 SD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/3590
+
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="Sports International",Eurosport 2 HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/13092
+
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="" group-title="Sports International",Eurosport 2 SD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/3591
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 1HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18240
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 2HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18241
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 3HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18242
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 4HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/22989
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 5HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/22990
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE SportS 6HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/22991
+
+#EXTINF:-1 tvg-id="PolsatSportPremium1" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="" group-title="Sports International",Polsat Sport Premium 1 FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/23369
+
+#EXTINF:-1 tvg-id="PolsatSportPremium2" tvg-name="Polsat Sport Premium 2 FHD" tvg-logo="" group-title="Sports International",Polsat Sport Premium 2 FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/23370
+
+#EXTINF:-1 tvg-id="Canal+Sport1" tvg-name="Canal+ Sport FHD" tvg-logo="" group-title="Sports International", Canal+ Sport FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/13535
+
+#EXTINF:-1 tvg-id="Canal+Sport2" tvg-name="Canal+ Sport 2 FHD" tvg-logo="" group-title="Sports International", Canal+ Sport 2 FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/15709
+
+#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 1
+http://clientportal.link:80/RaulDasilva/UXxhgo842/10168
+#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 2
+http://clientportal.link:80/RaulDasilva/UXxhgo842/10170
+#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 3
+http://clientportal.link:80/RaulDasilva/UXxhgo842/10169
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="" group-title="Sports International",ESPN HD US
+http://clientportal.link:80/RaulDasilva/UXxhgo842/9023
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="" group-title="Sports International",ESPN 2 US
+http://clientportal.link:80/RaulDasilva/UXxhgo842/9022
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="" group-title="Sports International",ESPN U US
+http://mag.clientportal.link:80/RaulDasilva/UXxhgo842/18190
+
+#EXTINF:-1 tvg-id="beINSports1PremiumHD.qa" tvg-name="beIN Sports Premium 1 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 1 AR HD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14994
+#EXTINF:-1 tvg-id="beINSports1PremiumSD.qa" tvg-name="beIN Sports Premium 1 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 1 AR SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14995
+
+#EXTINF:-1 tvg-id="beINSports2PremiumHD.qa" tvg-name="beIN Sports Premium 2 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 2 AR HD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14996
+#EXTINF:-1 tvg-id="beINSports2PremiumSD.qa" tvg-name="beIN Sports Premium 2 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 2 AR SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14997
+
+#EXTINF:-1 tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports Premium 3 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 3 AR HD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14998
+#EXTINF:-1 tvg-id="beINSports3PremiumSD.qa" tvg-name="beIN Sports Premium 3 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 3 AR SD
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14999
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports HD US" tvg-logo="" group-title="Sports International", beIN Sports US HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/15002
+
+#EXTINF:-1 tvg-name="beIN Sports 1 ENG" tvg-logo="" group-title="Sports International", beIN Sports 1 ENG
+
+#EXTINF:-1 tvg-name="beIN Sports 2 ENG" tvg-logo="" group-title="Sports International", beIN Sports 2 ENG
+
+#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports Max FHD QA
+
+#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 2 Max FHD QA
+
+#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 3 Max FHD QA
+
+#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 4 Max FHD QA
+
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beIN Sports HD CA" tvg-logo="" group-title="Sports International",beIN Sports CA HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/51290
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14980
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14981
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14982
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14983
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14984
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14985
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14986
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14987
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14988
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14989
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 HD AR
+http://clientportal.link:80//RaulDasilva/UXxhgo842/14990
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14991
+
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 HD" tvg-logo="" group-title="Sports International",beIN Sports 7 HD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14992
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 SD" tvg-logo="" group-title="Sports International",beIN Sports 7 SD AR
+http://clientportal.link:80/RaulDasilva/UXxhgo842/14993
+
+#EXTINF:-1 tvg-id="beINSports1.fr" tvg-name="beIN Sports 1 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 1 FR HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/5522
+
+#EXTINF:-1 tvg-id="beINSports2.fr" tvg-name="beIN Sports 2 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 2 FR HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/15637
+
+#EXTINF:-1 tvg-id="beINSports3.fr" tvg-name="beIN Sports 3 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 3 FR HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/14979
+
+#EXTINF:-1 tvg-id="beINSports4.fr" tvg-name="beIN Sports 4 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 4 FR HD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18218
+
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="beIN Sports 5 MAX FR" tvg-logo="" group-title="Sports International",beIN Sports 5 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18219
+
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="beIN Sports 6 MAX FHD FR" tvg-logo="" group-title="Sports International",beIN Sports 6 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18220
+
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="beIN Sports 7 MAX FHD FR" tvg-logo="" group-title="Sports International",beIN Sports 7 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18221
+
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN Sports 8 MAX FHD FR" tvg-logo="" group-title="Sports International",beIN Sports 8 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18222
+
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="beIN Sports 9 MAX FHD FR" tvg-logo="" group-title="Sports International",beIN Sports 9 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18223
+
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="beIN Sports 10 MAX FHD FR" tvg-logo="" group-title="Sports International",beIN Sports 10 MAX FR FHD
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18224
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_movies_small.png",FOX MOVIES
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_action_movies_small-1.png",FOX ACTION MOVIES
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_family_movies_small-1.png",FOX FAMILY MOVIES
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbofam_small.jpg",HBO FAMILY HD
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbohits_small.png",HBO HITS HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hitsmovies.png",HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hits_small.png",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/warner_small.png",Warner ID
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/thrill_small.png",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/galaxy_small.png", GALAXY
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/galaxypremium_small.png", GALAXY PREMIUM
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bioskopindonesia_small.png", BIOSKOP INDONESIA
+http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/flik_small.png", FLIK
+http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/imc_small.png", IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/history_small.png",HISTORY
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/natgeo_small.png",NAT GEO
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/natgeowild_small.png",NAT GEO WILD
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/natgeopeople_small.png",NAT GEO PEOPLE
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/animal_planet_small-1.png",ANIMAL PLANET
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/discovery_small.png", Discovery Channel
+http://iptv.tvmalaysia.cc/139664/139664/7078
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hgtv_small.png", HGTV
+http://iptv.tvmalaysia.cc/139664/139664/7076
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/smithsonian_small.png", SMITHSONIAN
+http://gpc.my.id/vidio/smithsonian.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nickelodeon_small.png",NICKELODEON
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nickjr_small.png",NICK JUNIOR
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/boomerang_small.png",BOOMERANG
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cartoonnetwork_small.png",CARTOON NETWORK
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/disneych_small.png",DISNEY CHANNEL HD
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/kidstv_small.png",KIDS TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cbeebies_small.png",CBEEBIES
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tvn_small.png",TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tvnmovies_small.png",TVN MOVIES
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/animax_small.png",ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/kix_small-1.png",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sone_small.png",SONY ONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/lifetime_small.png",LIFETIME
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tv5monde_small.png",TV5MONDE
+https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://meneerz.files.wordpress.com/2021/09/musictv_small.png",MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://meneerz.files.wordpress.com/2021/09/vchannel_small.png", CHANNEL V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/crimeinvestigation_small.png",CRIME INVESTIGATION
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/axn_small.png", AXN
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueant_small.png", ROCK ENTERTAINMENT
+http://topwin-tv.my.id/2/master.m3u8?id=blueant
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueantext_small.png", ROCK EXTREME
+http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/celestialmovie_small.png",CELESTIAL MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/ccm_small.png",CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/zeebioskop_small.png",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncnews_small.png",MNC NEWS 
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/idx_small.png",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/06/seatoday_small.png",SEA TODAY
+https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_aljazeera_small.png",AL JAZEERA ENGLISH
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/rt_small.png",RT ENGLISH
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/france24_small.png",FRANCE 24
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/dwtv_small.png",DW English
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/trtworld_small.png",TRT WORLD
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cgtn_small.png",CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/abcaustralia_small.png", ABC AUSTRALIA
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=abcaustralia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://meneerz.files.wordpress.com/2021/09/lifech_small.png",LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://meneerz.files.wordpress.com/2021/09/ewtn_small.png",EWTN
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://meneerz.files.wordpress.com/2021/09/reformed21_small.png",REFORMED 21 TV
+https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/lifestyle_small.png",LIFESTYLE & FASHION
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/ie_small.png",INFOTAINMENT
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/mshop_small.png",MNC SHOP
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/mshop_small.png",MNC SHOP SMART
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/visionprime_small.jpg",VISION PRIME HD
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mnc_ent_small.jpg",MNC ENTERTAINMENT
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/oktv.png",OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/06/jaktv_small.png",JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/jtv_small.png",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/balitv_small.png",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/daaitv_small.png",DAAI TV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/kompastv_small.png",KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/beritasatu.png",BERITA SATU HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/gtv_small.png",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mnctv_small.png",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nusantaratv_small.png", NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/indosiar_small.png",INDOSIAR
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/antv_small.png",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/rtv_small.png",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/metrotv_small.png",METRO TV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/inews_logo.png",iNEWS
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/net_small.png",NET TV
+https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/tvone_logo.jpg",TVOne
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/tvri_small.png",TVRI
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/sctv_small.png",SCTV
+https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cnnindonesia_small.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/rcti_small.png",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/trans7_small.png",TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/transtv_small.png",TRANS TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
