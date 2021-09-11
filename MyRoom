@@ -271,8 +271,11 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cbeebies_small.png",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports1_small.png",FOX SPORTS 1
-https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1NzozNCBBTSZoYXNoX3ZhbHVlPVFLUWducE1wd0I3dkt6VURKdjVTb2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfMjQwOTM=
+https://liveanevia.mncnow.id/live/eds/FoxSportsss/sa_dash_vmx/FoxSportsss.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -287,12 +290,6 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fightsports_small.png",FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 group-title="SPORT LIVE",FOX Sports HD
-http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
-#EXTINF:-1 group-title="SPORT LIVE",FOX Sports 2 HD
-http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
-#EXTINF:-1 group-title="SPORT LIVE",FOX Sports 3 HD
-http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 1
 http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein2_small.png",BEIN SPORTS 2
