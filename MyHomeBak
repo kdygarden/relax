@@ -120,109 +120,55 @@ http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/13092
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="" group-title="Sports International",Eurosport 2 SD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/3591
 
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 1 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/18240
+#EXTINF:-1 tvg-id="beINSports1PremiumHD.qa" tvg-name="beIN Sports Premium 1 HD AR" tvg-logo="" group-title="Sports International",beIN Sports 1 Premium HD ARB
+http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75533
 
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 2 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/18241
+#EXTINF:-1 tvg-id="beINSports2PremiumHD.qa" tvg-name="beIN Sports Premium 2 HD AR" tvg-logo="" group-title="Sports International",beIN Sports 2 Premium HD ARB
+http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75534
 
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 3 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/18242
-
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 4 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/22989
-
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 5 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/22990
-
-#EXTINF:-1 tvg-logo="" group-title="Sports International",COSMOTE Sports 6 HD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/22991
-
-#EXTINF:-1 tvg-id="PolsatSportPremium1" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="" group-title="Sports International",Polsat Sport Premium 1 FHD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/23369
-
-#EXTINF:-1 tvg-id="PolsatSportPremium2" tvg-name="Polsat Sport Premium 2 FHD" tvg-logo="" group-title="Sports International",Polsat Sport Premium 2 FHD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/23370
-
-#EXTINF:-1 tvg-id="Canal+Sport1" tvg-name="Canal+ Sport FHD" tvg-logo="" group-title="Sports International", Canal+ Sport FHD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/13535
-
-#EXTINF:-1 tvg-id="Canal+Sport2" tvg-name="Canal+ Sport 2 FHD" tvg-logo="" group-title="Sports International", Canal+ Sport 2 FHD
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/15709
-
-#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 1
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/10168
-#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 2
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/10170
-#EXTINF:-1 tvg-logo="" group-title="Sports International",SONY TEN 3
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/10169
-
-#EXTINF:-1 tvg-id="beINSports1PremiumHD.qa" tvg-name="beIN Sports Premium 1 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 1 AR HD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14994
-#EXTINF:-1 tvg-id="beINSports1PremiumSD.qa" tvg-name="beIN Sports Premium 1 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 1 AR SD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14995
-
-#EXTINF:-1 tvg-id="beINSports2PremiumHD.qa" tvg-name="beIN Sports Premium 2 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 2 AR HD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14996
-#EXTINF:-1 tvg-id="beINSports2PremiumSD.qa" tvg-name="beIN Sports Premium 2 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 2 AR SD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14997
-
-#EXTINF:-1 tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports Premium 3 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 3 AR HD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14998
-#EXTINF:-1 tvg-id="beINSports3PremiumSD.qa" tvg-name="beIN Sports Premium 3 SD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium 3 AR SD
-http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14999
+#EXTINF:-1 tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports Premium 3 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium HD ARB
+http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75535
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports HD US" tvg-logo="" group-title="Sports International", beIN Sports US HD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/15002
 
-#EXTINF:-1 tvg-name="beIN Sports 1 ENG" tvg-logo="" group-title="Sports International", beIN Sports 1 ENG
-
-#EXTINF:-1 tvg-name="beIN Sports 2 ENG" tvg-logo="" group-title="Sports International", beIN Sports 2 ENG
-
-#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports Max FHD QA
-
-#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 2 Max FHD QA
-
-#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 3 Max FHD QA
-
-#EXTINF:-1 tvg-name="beIN Sports Max FHD QA" tvg-logo="" group-title="Sports International", beIN Sports 4 Max FHD QA
-
 #EXTINF:-1 tvg-id="beINSports.ca" tvg-name="beIN Sports HD CA" tvg-logo="" group-title="Sports International",beIN Sports CA HD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/51290
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 HD AR
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports ARB 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14980
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 SD AR
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports ARB 1 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports1.png" group-title="Sports International",beIN Sports 1 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14981
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 HD AR
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports ARB 2 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14982
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 SD AR
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports ARB 2 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports2.png" group-title="Sports International",beIN Sports 2 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14983
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 HD AR
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports ARB 3 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14984
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 SD AR
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports ARB 3 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_3.png" group-title="Sports International",beIN Sports 3 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14985
 
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 HD AR
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports ARB 4 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14986
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 SD AR
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports ARB 4 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/bein_sports_4.png" group-title="Sports International",beIN Sports 4 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14987
 
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 HD AR
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports ARB 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14988
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 SD AR
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports ARB 5 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports5.png" group-title="Sports International",beIN Sports 5 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14989
 
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 HD AR
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports ARB 6 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 HD ARB
 http://clientportal.link:80//rIkdUFA2290/xzrT7O5387/14990
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 SD AR
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports ARB 6 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/beinsports6.png" group-title="Sports International",beIN Sports 6 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14991
 
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 HD" tvg-logo="" group-title="Sports International",beIN Sports 7 HD AR
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports ARB 7 HD" tvg-logo="" group-title="Sports International",beIN Sports 7 HD ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14992
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 SD" tvg-logo="" group-title="Sports International",beIN Sports 7 SD AR
+
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports ARB 7 SD" tvg-logo="" group-title="Sports International",beIN Sports 7 ARB
 http://clientportal.link:80/rIkdUFA2290/xzrT7O5387/14993
 
 #EXTINF:-1 tvg-id="beINSports1.fr" tvg-name="beIN Sports 1 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 1 FR HD
@@ -234,7 +180,7 @@ http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/15637
 #EXTINF:-1 tvg-id="beINSports3.fr" tvg-name="beIN Sports 3 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 3 FR HD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/14979
 
-#EXTINF:-1 tvg-id="beINSports4.fr" tvg-name="beIN Sports 4 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 4 FR HD
+#EXTINF:-1 tvg-id="beINSports4.fr" tvg-name="beIN Sports 4 FR HD" tvg-logo="" group-title="Sports International",beIN Sports 4 MAX FR HD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/18218
 
 #EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="beIN Sports 5 MAX FR" tvg-logo="" group-title="Sports International",beIN Sports 5 MAX FR FHD
@@ -298,14 +244,14 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/foxlife_small.png", FOX LIFE
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+https://liveanevia.mncnow.id/live/eds/STARBWorld/sa_dash_vmx/STARBWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/foxcrime_small.png", FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/warner_small.png",WARNER ID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/warner_small.png",WARBNER ID
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -351,11 +297,11 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARTH
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARBTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cgtndocumentary_small.png", CGTN DOCUMENTARY
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cgtndocumentary_small.png", CGTN DOCUMENTARBY
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -391,7 +337,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
+#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMARBT
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -407,7 +353,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cartoonnetwork_small.png",CARTOON NETWORK
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cartoonnetwork_small.png",CARBTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -568,8 +514,9 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/jtv_small.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png" group-title="Local Backup", MyTv
-https://gpc.my.id/vidio/mytv.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/visionprime_small.jpg",VISION PRIME HD
@@ -608,7 +555,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mnctv_small.png",MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nusantaratv_small.png", NUSANTARA TV
+#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nusantaratv_small.png", NUSANTARBA TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
