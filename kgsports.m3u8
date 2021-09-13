@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel HD" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel HD
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel FHD
 http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/18386
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",Super Sport Tennis
+#EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
 http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/54966
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis
+#EXTINF:-1 tvg-id="SuperTennis.us" tvg-name="Super Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/supertennis_small.png" group-title="Sports International",Super Tennis FHD
 http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/4084
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="Box Nation" tvg-logo="https://meneerz.files.wordpress.com/2021/08/box_nation.png" group-title="Sports",Box Nation
 http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/4010
