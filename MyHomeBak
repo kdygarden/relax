@@ -1,4 +1,4 @@
-D#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel FHD
 
@@ -31,9 +31,6 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="Box Nation" tvg-logo="" group-title="Sports International",BoxNation
-http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/4010
 
 #EXTINF:-1 tvg-id="Sport TV + FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV + FHD
 http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/19589
@@ -114,13 +111,13 @@ http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/13092
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/3591
 
 #EXTINF:-1 tvg-id="beINSports1PremiumHD.qa" tvg-name="beIN Sports Premium 1 HD AR" tvg-logo="" group-title="Sports International",beIN Sports 1 Premium HD ARB
-http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75533
+tv.rapidiptv.tvip.xyz/rIkdUFA2290/xzrT7O5387/75533
 
 #EXTINF:-1 tvg-id="beINSports2PremiumHD.qa" tvg-name="beIN Sports Premium 2 HD AR" tvg-logo="" group-title="Sports International",beIN Sports 2 Premium HD ARB
-http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75534
+tv.rapidiptv.tvip.xyz/rIkdUFA2290/xzrT7O5387/75534
 
-#EXTINF:-1 tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports Premium 3 HD AR" tvg-logo="" group-title="Sports International",beIN Sports Premium HD ARB
-http://tv.rapidiptv.tvip.xyz/RaulDasilva/UXxhgo842/75535
+#EXTINF:-1 tvg-id="beINSports3PremiumHD.qa" tvg-name="beIN Sports Premium 3 HD AR" tvg-logo="" group-title="Sports International",beIN Sports 3 Premium HD ARB
+tv.rapidiptv.tvip.xyz/rIkdUFA2290/xzrT7O5387/75535
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="beIN Sports HD US" tvg-logo="" group-title="Sports International", beIN Sports US HD
 http://cloudcdn.tk:80/rIkdUFA2290/xzrT7O5387/15002
