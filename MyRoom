@@ -68,7 +68,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/jtv_small.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png" group-title="LOCAL", MyTv
-https://gpc.my.id/vidio/mytv.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/balitv_small.png",BALI TV
@@ -411,21 +411,3 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel FHD
-http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/18386
-#EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
-http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/54966
-#EXTINF:-1 tvg-id="SuperTennis.us" tvg-name="Super Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/supertennis_small.png" group-title="Sports International",Super Tennis FHD
-http://cloudcdn.tk:80/OjzHbftfE286/CFOuJF863/4084
-#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV +
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/9499
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="Sports", Sport TV 1
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7846
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="Sports", Sport TV 2
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7845
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="Sports", Sport TV 3
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7844
-#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="Sports", Sport TV 4
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7843
-#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-id="Sport TV 5 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5 FHD
-http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/16297
