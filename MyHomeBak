@@ -17,9 +17,10 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 1 ID 
 http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 2 ID
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein2_small.png",BEIN SPORTS 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports_small.png", USEE SPORTS
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
