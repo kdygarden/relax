@@ -400,7 +400,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 1 ID
-https://liveanevia.mncnow.id/live/eds/BeIN1s/sa_dash_vmx/BeIN1s.mpd
+https://akamai.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 2 ID
