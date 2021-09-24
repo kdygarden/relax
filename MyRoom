@@ -69,8 +69,6 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/jtv_small.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png" group-title="LOCAL", MyTv
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/balitv_small.png",BALI TV
