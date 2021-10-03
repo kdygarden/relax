@@ -29,6 +29,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/visionprime_small.jpg",VISION PRIME HD
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mnc_ent_small.jpg",MNC ENTERTAINMENT
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/oktv.png",OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/indosiar_small.png",INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -59,8 +71,6 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/08/tvri_small.png",TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png" group-title="LOCAL", MyTv
-https://www.dropbox.com/s/i0omeibicqo0da4/Mytv.m3u8?dl=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/06/jaktv_small.png",JAKTV
@@ -69,8 +79,6 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/jtv_small.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png" group-title="LOCAL", MyTv
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/balitv_small.png",BALI TV
@@ -85,18 +93,6 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/beritasatu.png",BERITA SATU HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/visionprime_small.jpg",VISION PRIME HD
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mnc_ent_small.jpg",MNC ENTERTAINMENT
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/oktv.png",OK TV
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bandungtv.jpg",BANDUNG TV
@@ -139,10 +135,6 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/natgeopeople_small.png",NAT GEO PEOPLE
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/natgeowild_small.png",NAT GEO WILD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -153,19 +145,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_movies_small.png",FOX MOVIES
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_action_movies_small-1.png",FOX ACTION MOVIES
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_family_movies_small-1.png",FOX FAMILY MOVIES
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbofam_small.jpg",HBO FAMILY HD
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
@@ -191,32 +170,12 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fox_small.png", FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/foxlife_small.png", FOX LIFE
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/foxcrime_small.png", FOX CRIME
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/warner_small.png",WARNER ID
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/axn_small.png",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 channel-id="BlueAnt.ID" group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueant_small.png", ROCK ENTERTAINMENT
-http://topwin-tv.my.id/2/master.m3u8?id=blueant
-#EXTINF:-1 group-title="MOVIES" channel-id="BlueAntExtreme.ID" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueantext_small.png", ROCK EXTREME
-http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/galaxy_small.png", GALAXY
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/galaxypremium_small.png", GALAXY PREMIUM
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/thrill_small.png",THRILL
@@ -237,12 +196,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/zeebioskop_small.png",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bioskopindonesia_small.png", BIOSKOP INDONESIA
-http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/flik_small.png", FLIK
-http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/imc_small.png", IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nickelodeon_small.png",NICKELODEON
@@ -259,14 +212,6 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cartoonnetwork_small.png",CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/disneych_small.png",DISNEY CHANNEL HD
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/disneyjr_small.png",DISNEY JUNIOR HD
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/kidstv_small.png",KIDS TV
@@ -391,34 +336,14 @@ https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/mshop_small.png",MNC SHOP SMART
 https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/eatngo_small.png", Eat & Go
-http://topwin-tv.my.id/2/master.m3u8?id=eatgo
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports1_small.png",FOX SPORTS 1
-https://akamai.mncnow.id/live/eds/FoxSport-Siji/sa_dash_vmx/FoxSport-Siji.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports2_small.png",FOX SPORTS 2
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/foxsports3_small.png",FOX SPORTS 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/fightsports_small.png",FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein1_small.png",BEIN SPORTS 1 ID 
-http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/bein2_small.png",BEIN SPORTS 2 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports_small.png", USEE SPORTS
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports2_small.png", USEE SPORTS 2
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/soccerch.png",SOCCER CHANNEL
