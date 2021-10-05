@@ -201,8 +201,6 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueantext_small.png", ROCK EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueantext_small.png", ROCK EXTREME HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60411
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/thrill_small.png",THRILL
