@@ -361,5 +361,5 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", ASTRO SUPERSPORT 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd_small.png", ASTRO SUPERSPORT 1
 http://clientportal.link:80/eLdw1ltuRm68/6jr071990/23453
