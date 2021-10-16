@@ -199,9 +199,9 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/axn_small.png",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 channel-id="BlueAnt.ID" group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueant_small.png", ROCK ENTERTAINMENT
+#EXTINF:-1 channel-id="BlueAnt.ID" group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/10/rock_ent_small.png", ROCK ENTERTAINMENT
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="MOVIES" channel-id="BlueAntExtreme.ID" tvg-logo="https://meneerz.files.wordpress.com/2021/09/logo_blueantext_small.png", ROCK EXTREME
+#EXTINF:-1 group-title="MOVIES" channel-id="BlueAntExtreme.ID" tvg-logo="https://meneerz.files.wordpress.com/2021/10/rock_ext_small.png", ROCK EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -215,6 +215,10 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/ccm_small.png",CCM
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/scm_small.png" group-title="MOVIES",SCM
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cinemaworld_small.png",CINEMA WORLD
@@ -383,6 +387,8 @@ http://clientportal.link:80/oNjmj448/tcTcxZ0105/14988
 http://clientportal.link:80/oNjmj448/tcTcxZ0105/14991
 #EXTINF:-1 tvg-name="beIN Sports AR 6 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/10/beinsports6_small.png" group-title="SPORTS",BEIN SPORTS 6 HD AR
 http://clientportal.link:80/oNjmj448/tcTcxZ0105/14990
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/spotv_small.png" group-title="SPORTS", SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="SPORTS",TENNIS CHANNEL
 http://cloudcdn.tk:80/oNjmj448/tcTcxZ0105/18386
 #EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="SPORTS",SUPERSPORT TENNIS
