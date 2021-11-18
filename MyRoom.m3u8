@@ -106,15 +106,15 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://meneerz.files.wordpress.com/2021/06/seatoday_small.png",SEA TODAY
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?id=8" group-title="LOCAL", USEE PRIME
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_useephoto_small.png?id=8" group-title="LOCAL", USEE PHOTO
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?id=8" group-title="LOCAL", RUANG TERAMPIL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/magnach_small.png" group-title="LOCAL", MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="LOCAL",MYTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
@@ -160,7 +160,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tlc_small.png", TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 tvg-name="Techstorm" group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/11/ts_new_small.png", TECHSTORM
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
