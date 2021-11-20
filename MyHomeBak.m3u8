@@ -24,19 +24,19 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/soccerch.png",SOCCER CHANNEL
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 tvg-id="Astro Supersport 1" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd_small.png", ASTRO SUPERSPORT 1
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/23453
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23453
 #EXTINF:-1 tvg-id="Astro Supersport 2" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd2_small.png" group-title="SPORTS", ASTRO SUPERSPORT 2
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/23452
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23452
 #EXTINF:-1 tvg-id="Astro Supersport 3" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd3_small.png" group-title="SPORTS", ASTRO SUPERSPORT 3
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/23451
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23451
 #EXTINF:-1 tvg-id="Astro Supersport 4" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd4_small.png" group-title="SPORTS", ASTRO SUPERSPORT 4
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/33973
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/33973
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="SPORTS",TENNIS CHANNEL
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/18386
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/18386
 #EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="SPORTS",SUPERSPORT TENNIS
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/54966
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/54966
 #EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="SPORTS",SKY SPORT TENNIS
-http://cloudcdn.tk:80/sLuOr5S6jd754/2woNpH071/4084
+http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/4084
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbo_small.png",HBO
 https://gratismkctv.net/film/hbo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
