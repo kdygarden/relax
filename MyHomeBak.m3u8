@@ -343,6 +343,8 @@ https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/rcti_small.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png",MYTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cnnindonesia_small.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
