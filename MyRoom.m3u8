@@ -381,9 +381,9 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:-1 tvg-name="MotorvisionTV" tvg-logo="" group-title="SPORTS", MOTORVISION TV
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://meneerz.files.wordpress.com/2021/10/spotv_small.png" group-title="SPORTS", SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/spotv_small.png" group-title="SPORTS",
+#EXTINF:-1 tvg-name="MotorvisionTV" tvg-logo="https://meneerz.files.wordpress.com/2021/11/motorvisiontv_small.png" group-title="SPORTS",MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/astroarena_small.png" group-title="SPORTS", ASTRO ARENA
 http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
