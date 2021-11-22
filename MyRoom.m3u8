@@ -201,7 +201,7 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="BlueAntExtreme.id" group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/10/rock_ext_small.png", ROCK EXTREME
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-name="SinemaIndonesia" group-title="ENTERTAINMENT" tvg-logo="", SINEMA INDONESIA
+#EXTINF:-1 tvg-name="SinemaIndonesia" group-title="ENTERTAINMENT" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sinemaindo_small.png", SINEMA INDONESIA
 http://rr.dens.tv/h/h155/index2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
