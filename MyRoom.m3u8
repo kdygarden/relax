@@ -113,6 +113,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/magnach_small.png" group-title="LOCAL", MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png", MyTv
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
@@ -379,65 +381,5 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mncsports_small.png",MNC SPORTS 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://meneerz.files.wordpress.com/2021/10/spotv_small.png" group-title="SPORTS", SPOTV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTINF:-1 tvg-name="MotorvisionTV" tvg-logo="https://meneerz.files.wordpress.com/2021/11/motorvisiontv_small.png" group-title="SPORTS",MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/astroarena_small.png" group-title="SPORTS", ASTRO ARENA
-http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/astroarena2_small.png" group-title="SPORTS", ASTRO ARENA 2
-http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd_small.png", ASTRO SUPERSPORT 1
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23453
-#EXTINF:-1 tvg-id="Astro Supersport 2" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd2_small.png" group-title="SPORTS", ASTRO SUPERSPORT 2
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23452
-#EXTINF:-1 tvg-id="Astro Supersport 3" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd3_small.png" group-title="SPORTS", ASTRO SUPERSPORT 3
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/23451
-#EXTINF:-1 tvg-id="Astro Supersport 4" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd4_small.png" group-title="SPORTS", ASTRO SUPERSPORT 4
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/33973
-#EXTINF:-1 tvg-name="beIN Sports AR 5 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/10/beinsports5_small.png" group-title="SPORTS",BEIN SPORTS 5 AR
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/14989
-#EXTINF:-1 tvg-name="beIN Sports AR 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/10/beinsports5_small.png" group-title="SPORTS",BEIN SPORTS 5 HD AR
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/14988
-#EXTINF:-1 tvg-name="beIN Sports AR 6 SD" tvg-logo="https://meneerz.files.wordpress.com/2021/10/beinsports6_small.png" group-title="SPORTS",BEIN SPORTS 6 AR
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/14991
-#EXTINF:-1 tvg-name="beIN Sports AR 6 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/10/beinsports6_small.png" group-title="SPORTS",BEIN SPORTS 6 HD AR
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/14990
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="SPORTS",TENNIS CHANNEL
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/18386
-#EXTINF:-1 tvg-id="SuperSportTennis.us" tvg-name="SuperSport Tennis ESPN 2 US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="SPORTS",SUPERSPORT TENNIS
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/54966
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="SPORTS",SKY SPORT TENNIS
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/4084
-#EXTINF:-1 tvg-id="Sport TV + FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="SPORTS", Sport TV + FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/19589
-#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="SPORTS", Sport TV +
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/9499
-#EXTINF:-1 tvg-id="Sport TV 1 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="SPORTS", Sport TV 1 FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/17744
-#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="SPORTS", Sport TV 1 HD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/3221
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="SPORTS", Sport TV 1
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/7846
-#EXTINF:-1 tvg-id="Sport TV 2 FHD" "tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv2_small.png" group-title="SPORTS", Sport TV 2 FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/3222
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv2_small.png" group-title="SPORTS", Sport TV 2
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/7845
-#EXTINF:-1 tvg-id="Sport TV 3 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv3_small-1.png" group-title="SPORTS", Sport TV 3 FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/3223
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv3_small-1.png" group-title="SPORTS", Sport TV 3
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/7844
-#EXTINF:-1 tvg-id="Sport TV 4 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv4_small.png" group-title="SPORTS", Sport TV 4 FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/3224
-#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv4_small.png" group-title="SPORTS", Sport TV 4
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/7843
-#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-id="Sport TV 5 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv5_small.png" group-title="SPORTS", Sport TV 5 FHD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/16297
-#EXTINF:-1 tvg-id="Sport TV 5" tvg-id="Sport TV 5" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv5_small.png" group-title="SPORTS", Sport TV 5
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/7842
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport1hd_small.png" group-title="SPORTS",BT Sport 1 HD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/1991
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport2hd_small.png" group-title="SPORTS",BT Sport 2 HD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/1992
-#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport3hd_small.png" group-title="SPORTS",BT Sport 3 HD
-http://cloudcdn.tk:80/cqLNEaDPdE013/A6dmAO958/14903
