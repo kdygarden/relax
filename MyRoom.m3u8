@@ -116,7 +116,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png", MYTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/71092
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/71092
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/animal_planet_small-1.png",ANIMAL PLANET
@@ -126,7 +126,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbc_lifestyle_small.png",BBC STYLE
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/71120
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/71120
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cgtndocumentary_small.png", CGTN DOCUMENTARY
@@ -140,7 +140,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/discovery_small.png", DISCOVERY CHANNEL
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/discoveryasia_small.png", DISCOVERY ASIA
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/60376
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/60376
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hgtv_small.png", HGTV
@@ -170,7 +170,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 #EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbo_small.png",HBO
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/60473
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/60473
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbofam_small.jpg",HBO FAMILY HD
