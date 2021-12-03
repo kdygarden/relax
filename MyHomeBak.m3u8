@@ -24,19 +24,43 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/soccerch.png",SOCCER CHANNEL
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 tvg-name="Assp1" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd_small.png", ASTRO SUPERSPORT 1
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/1722
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/1722
 #EXTINF:-1 tvg-name="Assp2" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd2_small.png", ASTRO SUPERSPORT 2
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/1721
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/1721
 #EXTINF:-1 tvg-name="Assp3" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd3_small.png", ASTRO SUPERSPORT 3
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/1720
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/1720
 #EXTINF:-1 tvg-name="Assp4" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/asshd4_small.png", ASTRO SUPERSPORT 4
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/1719
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/1719
 #EXTINF:-1 tvg-name="AstroArena" group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/10/astroarena_small.png", ASTRO ARENA
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/71102
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/71102
 #EXTINF:-1 tvg-name="MotorvisionTV" tvg-logo="https://meneerz.files.wordpress.com/2021/11/motorvisiontv_small.png" group-title="SPORTS",MOTORVISION TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel HD
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3082 
+#EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/60801
+#EXTINF:-1 tvg-name="Sky Sport Super Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="Sports International",Skysport Super Tennis
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/28335
+#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="Sports International", Sport TV +
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3187
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="Sports International", Sport TV 1
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3192
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv2_small.png" group-title="Sports International", Sport TV 2
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3191
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv3_small-1.png" group-title="Sports International", Sport TV 3
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3190
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv4_small.png" group-title="Sports International", Sport TV 4
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3189
+#EXTINF:-1 tvg-id="Sport TV 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv5_small.png" group-title="Sports International", Sport TV 5
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3189
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport1hd_small.png" group-title="Sports International",BT Sport 1 HD
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2943
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport2hd_small.png" group-title="Sports International",BT Sport 2 HD
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2942
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport3hd_small.png" group-title="Sports International",BT Sport 3 HD
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2941
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbo_small.png",HBO
-http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/60473
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/60473
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbofam_small.jpg",HBO FAMILY HD
@@ -88,7 +112,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://liveanevia.mncnow.id/live/eds/AFC-HD/sa_dash_vmx/AFC-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/animal_planet_small-1.png",ANIMAL PLANET
@@ -335,7 +359,7 @@ https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cnnindonesia_small.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png", MyTv
+#EXTINF:-1 group-title="Local Backup" tvg-logo="https://meneerz.files.wordpress.com/2021/09/mytv_small.png", myTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
