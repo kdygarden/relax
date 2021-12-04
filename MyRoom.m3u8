@@ -405,8 +405,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3082 
 #EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/60801
-#EXTINF:-1 tvg-name="Sky Sport Super Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="Sports International",Skysport Super Tennis
+#EXTINF:-1 tvg-name="Sky Sport Super Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="Sports International",Sky Sports Super Tennis
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/28335
+#EXTINF:-1 tvg-name="Sky Sport F1 UK" tvg-logo="https://meneerz.files.wordpress.com/2021/12/skysportsf1_small.png" group-title="Sports International",Sky Sports F1 UK
+http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2876
 #EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="Sports International", Sport TV +
 http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3187
 #EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="Sports International", Sport TV 1
