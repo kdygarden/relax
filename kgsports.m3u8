@@ -1,25 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Tennis Channel US" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="Sports International",Tennis Channel HD
-http://fcd7.flycany.me:8880/live/umSwuUyhqx/CUztEhTBxW/3082.ts 
-#EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="Sports International",SuperSport Tennis HD
-http://fcd7.flycany.me:8880/live/umSwuUyhqx/CUztEhTBxW/60801.ts
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/59205
 #EXTINF:-1 tvg-name="Sky Sport Super Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/10/skysport_tennis_small.png" group-title="Sports International",Skysport Super Tennis
-http://fcd7.flycany.me:8880/live/umSwuUyhqx/CUztEhTBxW/28335.ts
-#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="Sports International", Sport TV +
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3187
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/28335
 #EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv1_small.png" group-title="Sports International", Sport TV 1
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3192
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3192
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv2_small.png" group-title="Sports International", Sport TV 2
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3191
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3191
 #EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv3_small-1.png" group-title="Sports International", Sport TV 3
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3190
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3190
 #EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv4_small.png" group-title="Sports International", Sport TV 4
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3189
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3189
 #EXTINF:-1 tvg-id="Sport TV 5 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv5_small.png" group-title="Sports International", Sport TV 5
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/3189
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3189
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport1hd_small.png" group-title="Sports International",BT Sport 1 HD
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2943
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/2943
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport2hd_small.png" group-title="Sports International",BT Sport 2 HD
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2942
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/2942
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/10/btsport3hd_small.png" group-title="Sports International",BT Sport 3 HD
-http://fcd7.flycany.me:8880/umSwuUyhqx/CUztEhTBxW/2941
+http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/2941
